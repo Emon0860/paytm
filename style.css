@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:hover {
+    background-color: #002970;
+}
+
+button:hover .icon {
+    background-color: #00baf2;
+}
